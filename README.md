@@ -1,6 +1,5 @@
 
-![android-chrome-512x512](https://github.com/user-attachments/assets/76f5961c-4088-4291-922a-64dea57d0332)
-
+![logo_3](https://github.com/user-attachments/assets/9fe0b69a-bcad-496e-aede-9fffc6ebfb1c)
 
 
 
