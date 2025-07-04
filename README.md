@@ -1,5 +1,3 @@
-# .github
-
 
 <img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/logo_3.jpg" alt="Balvanera WebStudio Banner" style="width:100%; max-width:900px;"/>
 
