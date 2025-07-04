@@ -41,8 +41,8 @@ We build software that works in real-world conditions — slow internet, Excel-b
 
 ## 📬 Contact Us
 
-- Email: [your.email@example.com]
-- Telegram: [@your_username](https://t.me/your_username)
+- Email: [stepanovartemijdev@gmail.com]
+- Telegram: [@your_username](https://t.me/reptiloidanunak_dev)
 - Website: _coming soon_
 
 ---
