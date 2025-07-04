@@ -1,5 +1,8 @@
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/logo_3.jpg" alt="Balvanera WebStudio Banner" style="width:100%; max-width:900px;"/>
+![android-chrome-512x512](https://github.com/user-attachments/assets/76f5961c-4088-4291-922a-64dea57d0332)
+
+
+
 
 # Balvanera WebStudio
 
