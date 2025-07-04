@@ -41,7 +41,7 @@ We build software that works in real-world conditions — slow internet, Excel-b
 
 ## 📬 Contact Us
 
-- Email: [stepanovartemijdev@gmail.com]
+- Email: stepanovartemijdev@gmail.com
 - Telegram: [@reptiloidanunak_dev](https://t.me/reptiloidanunak_dev)
 - Website: [https://balvanera-webstudio.com/](https://balvanera-webstudio.com/)
 
